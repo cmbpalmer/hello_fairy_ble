@@ -1,4 +1,4 @@
-# Hello Fairy Bluetooth Lights Integration for Home Assistant
+# Hello Fairy Bluetooth Lights Integration for Home Assistant with additional presets
 
 ![Hello Fairy String Lights](string.jpg)
 
